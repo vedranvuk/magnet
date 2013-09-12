@@ -9,3 +9,7 @@ go get -u github.com/vedranvuk/magnet
 # Usage
 
 `m, err := NewMagnet(SomeMagnetString)`
+
+# Version
+
+It compiles. First commit, not ready.
